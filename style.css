@@ -1,0 +1,333 @@
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+
+.logo {
+    font-family: "Satisfy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+}
+
+.logo-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 50px;
+}
+
+.navigation-about_us {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.navigation-reviews {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.navigation-kontakt {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #cfcdd1
+}
+
+.icon-vk {
+    width: 20px;
+    height: 20px;
+}
+
+.img-roza {
+    width: 400px;
+    height: 400px;
+    margin-right: 30px;
+}
+
+.img-klematis {
+    width: 400px;
+    height: 400px;
+    margin-right: 30px;
+}
+
+.img-gortenzii {
+    width: 400px;
+    height: 400px;
+}
+
+.section-roza_klematis_gortenzii {
+    display: flex;
+    justify-content:space-around ;
+    margin-top: 25px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.p-hit {
+    font-size: 50px;
+    margin-top: 40px;
+}
+
+.section-name {
+    font-size: 25px;
+    font-family: "Marmelad", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(62, 117, 62);
+}
+
+.about_the_flower {
+    font-size: 18px;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+}
+
+.footer-company {
+    font-family: cursive;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 20px;
+    color: blueviolet;
+    text-align: right;
+
+}
+
+.container-fluid {
+    margin-top: 25px;
+}
+
+.roza {
+    margin-top: 20px;
+    margin-right: 20px;
+
+}
+
+.klematis {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.footer-slogan {
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.section-about_the_store {
+    margin-top: 30px;
+    font-size: 18px;
+    font-family: "Onest", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.link-tg {
+    text-decoration: none;
+    color: black;
+}
+
+.link-vk {
+    text-decoration: none;
+    color: black;
+}
+
+.link-tg:hover {
+    color: blue;
+}
+
+.link-vk:hover {
+    color: blue;
+}
+
+.icon-vk {
+    margin-bottom: 10px;
+}
+
+.reviews {
+    display: flex;
+    margin-top: 20px;
+    font-family: "Onest", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.img-reviews {
+    height: 100px;
+    width: 100px;
+}
+
+.reviews-text {
+    margin-top: 20px;
+}
+
+.footer-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+footer {
+    padding-bottom: 25px;
+}
+
+.section-about_the_store_img {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.section-contacts_img {
+    margin-bottom: 50px;
+    margin-top: 25px;
+
+}
+
+.section-roza_img {
+    margin-bottom: 50px;
+    margin-top: 25px;
+}
+
+.nav-section {
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.link-katologe {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.link-katologe-the_page {
+    text-decoration: none;
+    color: rgb(199, 2, 199);
+    font-size: 20px;
+}
+
+.link-katologe:hover {
+    color: purple;
+    transition-duration: 1s;
+    font-size: 30px;
+}
+
+.img-product {
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+}
+
+.body {
+    background-color: #f8f9fa;
+}
+
+.section-img {
+    width: 1300px;
+}
+
+.roza-cataloge {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.product-roza_1 {
+    max-width: 300px;
+    
+    
+
+}
+
+.product-roza_2 {
+    max-width: 300px;
+    
+   
+    
+}
+
+.product-roza_3 {
+    max-width: 300px;
+    
+    
+    
+}
+.product-hit{
+    max-width: 200px;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.product-hit img{
+    width: 400px;
+    height: 400px;
+}
+.card-body{
+    margin-top: 20px;
+}
+.card-body a{
+    background-color: greenyellow;
+    color: black;
+    border-color: black;
+}
+.product-roza_1{
+    text-align: center;
+}
+.product-roza_2{
+    text-align: center;
+}
+.product-roza_3{
+    text-align: center;
+    
+}
+.nav-section{
+    margin-bottom: 30px;
+}
+.card-body a:hover{
+    background-color: rgb(214, 0, 214);
+    border-color: black;
+}
+.card-body{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.col-12 button{
+    margin-bottom: 50px;
+}
+
+
+@media screen and (max-width:768px) {
+    .img-product{
+        width: 200px;
+        height: 200px;
+        
+    }
+    
+}
+.section-img{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
